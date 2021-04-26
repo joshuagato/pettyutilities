@@ -1,6 +1,6 @@
 {
   "name": "pettyutilities",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An NPM package that provides utility functions for petty operations.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joshuagato/returnfirst.git"
+    "url": "git+https://github.com/joshuagato/pettyutilities.git"
   },
   "keywords": [
     "petty",
@@ -20,7 +20,7 @@
   "author": "Joshua Gato",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joshuagato/returnfirst/issues"
+    "url": "https://github.com/joshuagato/pettyutilities/issues"
   },
-  "homepage": "https://github.com/joshuagato/returnfirst#readme"
+  "homepage": "https://github.com/joshuagato/pettyutilities#readme"
 }

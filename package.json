@@ -1,7 +1,7 @@
 {
-  "name": "returnfirst",
-  "version": "1.0.0",
-  "description": "An NPM package with a function that accepts an array and returns the first element.",
+  "name": "pettyutilities",
+  "version": "1.0.3",
+  "description": "An NPM package that provides utility functions for petty operations.",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -11,8 +11,9 @@
     "url": "git+https://github.com/joshuagato/returnfirst.git"
   },
   "keywords": [
-    "return",
-    "first",
+    "petty",
+    "utils",
+    "utilities",
     "joshua",
     "gato"
   ],

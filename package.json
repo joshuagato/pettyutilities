@@ -1,11 +1,25 @@
 {
   "name": "returnfirst",
   "version": "1.0.0",
-  "description": "A package that takes an array and return the first item",
+  "description": "An NPM package with a function that accepts an array and returns the first element.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuagato/returnfirst.git"
+  },
+  "keywords": [
+    "return",
+    "first",
+    "joshua",
+    "gato"
+  ],
   "author": "Joshua Gato",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuagato/returnfirst/issues"
+  },
+  "homepage": "https://github.com/joshuagato/returnfirst#readme"
 }

@@ -1,2 +1,2 @@
-# returnfirst
-An NPM Package that accepts an array and returns the first item.
+# pettyutilities
+An NPM package that provides utility functions for petty operations.

@@ -1,0 +1,11 @@
+{
+  "name": "returnfirst",
+  "version": "1.0.0",
+  "description": "A package that takes an array and return the first item",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Gato",
+  "license": "ISC"
+}
